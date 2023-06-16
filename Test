@@ -7,3 +7,4 @@ print("{")
 print('cout<<"hello world"<<endl;')
 print("return 0;")
 print("}")
+update by suzipei
